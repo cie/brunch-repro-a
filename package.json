@@ -6,6 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cie/brunch-repro-a.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cie/brunch-repro-a/issues"
+  },
+  "homepage": "https://github.com/cie/brunch-repro-a#readme",
+  "dependencies": {
+    "b": "github:cie/brunch-repro-b"
+  }
 }
